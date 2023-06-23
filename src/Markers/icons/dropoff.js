@@ -1,0 +1,4 @@
+const Icon = (color) => {
+  return `<svg width="64" height="72" viewBox="0 0 32 36" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.24" filter="url(#fdropoff)"> <ellipse cx="16" cy="28" rx="12" ry="4" fill="${color}"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M8 0C5.79086 0 4 1.79086 4 4V20C4 22.2091 5.79086 24 8 24H13.1132L16 29L18.8868 24H24C26.2091 24 28 22.2091 28 20V4C28 1.79086 26.2091 0 24 0H8Z" fill="${color}"/> <defs> <filter id="fdropoff" x="0" y="20" width="32" height="16" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"> <feFlood flood-opacity="0" result="BackgroundImageFix"/> <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/> <feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur"/> </filter> </defs> </svg>`;
+};
+export default Icon;
