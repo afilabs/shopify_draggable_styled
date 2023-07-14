@@ -4,8 +4,8 @@
 
 Taken from: 
 - [Uber h3 js tutorial: How to draw hexagons on a map (part 1 of 3)](https://www.afi.io/blog/uber-h3-js-tutorial-how-to-draw-hexagons-on-a-map/)
-- [How to use Shopify Draggable with React (part 2 of 3)](https://afi.io/blog/using-shopify-draggable-to-build-a-drag-and-drop-timeline/)
-- [Visualizing taxi demand over time - adding interactivity to h3 js (part 3 of 3)](https://afi.io/blog/styling-a-shopify-draggable-react-component-with-css/)
+- How to use Shopify Draggable with React (part 2 of 3) - coming soon!
+- Visualizing taxi demand over time - adding interactivity to h3 js (part 3 of 3) - coming soon!
 
  How to run the app:
  1. cd into your project
